@@ -15,13 +15,5 @@ SVF - racer abbreviation
 2018-05-24 - date
 12:02:58.917 - time
 
-Example of output:
+![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/fb062a79-e8da-4719-9199-dc2b8407c585)
 
-Application reads the data from 2 files, order racers by time and print report that shows the top 15 racers and the rest ones after the underline, for example:
-
-1. Daniel Ricciardo      | RED BULL RACING TAG HEUER     | 1:12.013
-2. Sebastian Vettel      | FERRARI                       | 1:12.415
-3. ...
-------------------------------------------------------------------------
-16. Brendon Hartley   | SCUDERIA TORO ROSSO HONDA         | 1:13.179
-17. Marcus Ericsson    | SAUBER FERRARI                   | 1:13.265
