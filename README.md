@@ -16,4 +16,11 @@ SVF - racer abbreviation
 12:02:58.917 - time
 
 ![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/fb062a79-e8da-4719-9199-dc2b8407c585)
-
+Result:
+![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/fec6a4af-d8e0-460e-9228-9b392e21c30d)
+![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/d202b80c-a2e1-4d13-8d5b-f4c7a9c3a827)
+![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/0e7be9f2-c9b1-4764-b634-f56b210bff95)
+![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/c3dd1245-9822-4d4b-ae30-6b3ad0342d75)
+![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/8934b158-5572-47ae-944f-863a6d5eae3b)
+![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/93bc10eb-fd01-44ff-af87-8fb7646a0b50)
+![image](https://github.com/AndriiChipets/JavaStreamsAPI/assets/137887124/f216fee9-82b2-44e3-b9e7-ca8ce3b19ae7)
